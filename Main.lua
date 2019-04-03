@@ -47,7 +47,7 @@ end
 local WRange = 1000
 local ERange = 125
 
-local WPred = {delay = 0.5, radius = 280, speed = 700}
+local WPred = {delay = 0.5, radius = 280, speed = 700, boundingradius = 1}
 local EPred = {}
 
 --- W ---
